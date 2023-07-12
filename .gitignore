@@ -1,0 +1,14 @@
+out/
+data.zip
+boss.rar
+/data/config/girlkundb.properties
+/data/girlkun/girlkun.properties
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
